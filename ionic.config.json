@@ -1,7 +1,0 @@
-{
-  "name": "Coin Tracker App",
-  "integrations": {
-    "capacitor": {}
-  },
-  "type": "react-vite"
-}
